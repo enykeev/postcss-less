@@ -1,5 +1,5 @@
 {
-  "name": "postcss-less-engine",
+  "name": "@stackstorm/postcss-less-engine",
   "version": "0.6.2",
   "description": "PostCSS plugin for integrating the popular Less CSS pre-processor into your PostCSS workflow",
   "keywords": [
